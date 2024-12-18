@@ -1,0 +1,13 @@
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==2.3.1+cpu
+streamlit
+pandas==2.2.3
+numpy<2.0
+faiss-cpu>=1.7.3
+nltk
+sentence-transformers
+scikit-learn
+rank-bm25
+transformers
+
+
